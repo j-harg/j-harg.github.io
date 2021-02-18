@@ -8,10 +8,14 @@ feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 ---
 
-Article Link: https://svpg.com/beyond-lean-and-agile/
-Video Link (Lean Product Meetup): https://www.youtube.com/watch?v=7LYLhxb8Vwc
-Video Link (Connected): https://www.youtube.com/watch?v=7LYLhxb8Vwc
+Article Link: [Beyond Lean & Agile](https://svpg.com/beyond-lean-and-agile/)
+
+Video Link: [Lean Product Meetup](https://www.youtube.com/watch?v=7LYLhxb8Vwc)
+
+Video Link [Connected](https://www.youtube.com/watch?v=9OD80GQ5Qag)
+
 Author: Marty Cagan
+
 Type: #literature #article #video
 
 # Beyond Lean & Agile
