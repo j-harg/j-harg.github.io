@@ -100,12 +100,14 @@ If the teams are asked to (implicitly or explicitly) focus on output then they a
 ## How does this work in teams
 Essentially there are lots of flavours of the approach that all follow a similar pattern that essentially boils down to
 
+```
 Objective
    +
    |    Continuous discovery
    v +-------------------------------------->
                  Continuous delivery
               +------------------------------------------->
+```
 
 Discovery and delivery are continuous processes - they are never "done".  You work on these things for years - consider Google AdWords, it's 15 odd years old as of 2016ish with some 50bn in revenue.
 
